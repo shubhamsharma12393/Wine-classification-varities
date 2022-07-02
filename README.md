@@ -1,2 +1,2 @@
 # Wine-classification-varities
-unsupervised learning to create classification of wine varities
+Unsupervised learning to create classification of wine varities
